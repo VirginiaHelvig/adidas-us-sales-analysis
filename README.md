@@ -132,4 +132,4 @@ El tablero tiene 6 solapas navegables, cada una filtrable por año, cuatrimestre
 
 ---
 
-**Autora:** Virginia Helvig · Coderhouse — Curso de Data Analytics
+**Autora:** Virginia Helvig · [LinkedIn](https://www.linkedin.com/in/virginia-elizabeth-helvig/) · Coderhouse — Curso de Data Analytics
